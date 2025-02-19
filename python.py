@@ -1,1 +1,1 @@
-print("Praju")
+print("Prajuinnu)
